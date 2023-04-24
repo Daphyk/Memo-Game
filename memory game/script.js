@@ -1,3 +1,6 @@
+document.addEventListener('DOMContentLoaded', () => {
+  //card options
+
 const cards = dosument.querySelectorAll('.memory-card');
 
 let hasFlippedCard = false;
